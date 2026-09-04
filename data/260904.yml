@@ -7,13 +7,13 @@ about:
   head: 6bb2469
   archived: false
   latestVersion: v2.4.5
-  collectedAt: 2026-09-04T19:36:51Z
+  collectedAt: 2026-09-04T20:55:33Z
 timeline:
   created: 2021-01-17
   lastCommit: 2026-09-01
   lastRelease: 2026-08-10
 popularity:
-  star: 7948
+  star: 7947
   watcher: 34
   fork: 340
   release: 458
@@ -88,6 +88,84 @@ total:
   openIssue: 4
   commit: 3616
 ---
+path: /home/runner/.x-repo/github.com/turbot/steampipe
+collectedAt: 2026-09-04T20:55:36Z
+loc:
+  Go:
+    code: 29639
+    comments: 4793
+    blanks: 5905
+    files: 287
+  Json:
+    code: 4202
+    comments: 0
+    blanks: 31
+    files: 58
+  Sql:
+    code: 644
+    comments: 45
+    blanks: 6
+    files: 73
+  Puppet:
+    code: 443
+    comments: 0
+    blanks: 45
+    files: 17
+  Sh:
+    code: 418
+    comments: 95
+    blanks: 116
+    files: 17
+  Xml:
+    code: 402
+    comments: 0
+    blanks: 110
+    files: 1
+  Html:
+    code: 198
+    comments: 0
+    blanks: 129
+    files: 1
+  Yaml:
+    code: 80
+    comments: 1
+    blanks: 11
+    files: 6
+  Protobuf:
+    code: 41
+    comments: 2
+    blanks: 11
+    files: 1
+  Dockerfile:
+    code: 34
+    comments: 28
+    blanks: 28
+    files: 2
+  Bash:
+    code: 27
+    comments: 7
+    blanks: 6
+    files: 1
+  Makefile:
+    code: 13
+    comments: 1
+    blanks: 5
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2830
+    blanks: 874
+    files: 49
+  Text:
+    code: 0
+    comments: 409
+    blanks: 73
+    files: 40
+total:
+  code: 36553
+  comments: 8235
+  blanks: 7386
+  files: 555
 ---
 date: "2026-08-24"
 repo:
